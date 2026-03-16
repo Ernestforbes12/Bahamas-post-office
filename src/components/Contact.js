@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <section className="bg-navy py-16 px-6">
+    <section id="contact" className="bg-navy py-16 px-6">
       <h1 className="text-4xl font-bold text-white text-center mb-12">
         Get In Touch 📬
       </h1>

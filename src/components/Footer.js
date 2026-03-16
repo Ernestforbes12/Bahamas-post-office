@@ -5,9 +5,13 @@ function Footer() {
 
         {/* Logo & Description */}
         <div>
-          <h2 className="text-2xl font-bold text-gold mb-4">
-            🇧🇸 Bahamas Post Office
-          </h2>
+          <img
+           src="/post-logo.webp"
+           alt="Bahamas Post Office"
+           className="h-16 w-auto mb-4"
+          />
+        
+          
           <p className="text-gray-400 text-sm">
             Delivering The Bahamas, one package at a time. 
             Serving New Providence and the Family Islands.

@@ -3,7 +3,7 @@ import ServiceCard from "./ServiceCard";
 
 function Services() {
   return (
-    <section className="bg-gray-100 py-16 px-6">
+    <section className="bg-white py-16 px-6">
       <motion.h1
         className="text-4xl font-bold text-navy text-center mb-12"
         initial={{ opacity: 0, y: -30 }}

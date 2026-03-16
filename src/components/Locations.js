@@ -39,7 +39,7 @@ function Locations() {
   ];
 
   return (
-    <section className="bg-gray-100 py-16 px-6">
+    <section className="bg-white py-16 px-6">
       <h1 className="text-4xl font-bold text-navy text-center mb-12">
         Find a Branch 📍
       </h1>
